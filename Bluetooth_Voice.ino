@@ -22,9 +22,9 @@ void loop() {
 if (voice.length() > 0) {				// Jika serial lebih dari 0
     Serial.println(voice); 			        // Menampilkan Suara
     if(voice == "*on") digitalWrite(RELAY1,0);	
-    Serial.println("Light ON");                // Jika suara “nyalakan lampu, maka LED akan menyala
-    if(voice == "*ok") digitalWrite(RELAY1,1);  
-    Serial.println("Light OFF");                // Jika suara “matikan lampu, maka LED akan mati
+    Serial.println("Light ON");                // Jika suara “on" maka LED akan menyala
+    if(voice == "*off") digitalWrite(RELAY1,1);  
+    Serial.println("Light OFF");                // Jika suara “off" maka LED akan mati
     voice="";
   }
 }
