@@ -1,5 +1,5 @@
 # Bluetooth_Voice
-Program sederhana untuk menyalakan LED menggunakan Android melalui suara
+Control your Arduino with voice commands using an Android smartphone! 
 
 # Requirement 
 - 1 Arduino Uno
@@ -15,5 +15,5 @@ Program sederhana untuk menyalakan LED menggunakan Android melalui suara
 # App Android
 Download The Free App Here: https://play.google.com/store/apps/details?id=robotspace.simplelabs.amr_voice
 
-# Demo
-![Demon] (https://www.youtube.com/watch?v=qWGgvA5WKuQ)
+# Similar Demo
+https://www.youtube.com/watch?v=qWGgvA5WKuQ
