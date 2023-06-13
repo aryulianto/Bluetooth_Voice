@@ -11,10 +11,11 @@ Control your Arduino with voice commands using an Android smartphone!
 - 1 LED
 
 # Schema
-![Schema] (https://github.com/aryulianto/Bluetooth_Voice/blob/master/HC-05.png)
 (put the LED on port 13 and GND)
+![schema](https://github.com/aryulianto/Bluetooth_Voice/blob/master/HC-05.png)
+
 # App Android
 Download The Free App Here: https://play.google.com/store/apps/details?id=robotspace.simplelabs.amr_voice
 
-# Similar Demo
-https://www.youtube.com/watch?v=qWGgvA5WKuQ
+# Demo
+Avaiable on YouTube: https://www.youtube.com/watch?v=qWGgvA5WKuQ
